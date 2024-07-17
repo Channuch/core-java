@@ -1,0 +1,4 @@
+Grinder
+	public static void grind(){
+	System.out.println(to prepare batter);
+	}
